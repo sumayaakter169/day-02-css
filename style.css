@@ -1,0 +1,64 @@
+body {
+    font-family: Verdana;
+    background-color: #9fbada;
+    margin: 20px;
+}
+
+h1 {
+    color: #103e75;
+}
+
+h2 {
+    color: #144177;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #1e269c;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #17375e;
+    color: white;
+}
+
+
+input, textarea {
+    padding: 8px;
+    margin: 5px;
+}
+
+
+button {
+    background-color: #17375e;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+footer {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #031d3d;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+}
